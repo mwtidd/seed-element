@@ -1,0 +1,38 @@
+{
+  "name": "seed-element",
+  "authors": [
+    "Michael Tidd <mwtidd@envisa.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "seed-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/mwtidd/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "a5c29eceb5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a5c29eceb53d2572ccdddb6f4ee17e81574916cf"
+  },
+  "_source": "git://github.com/mwtidd/seed-element.git",
+  "_target": "master",
+  "_originalSource": "mwtidd/seed-element",
+  "_direct": true
+}
